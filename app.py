@@ -11,6 +11,6 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-# --- 下面才開始寫您的主程式 ---
+# ---主程式 ---
 st.title("我的法務部士林分署拍賣")
 # ...
